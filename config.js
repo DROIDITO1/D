@@ -4,15 +4,15 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['5212411719888', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212412377467', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
+  ['50258487658', 'TONY', true],
+  ['50258487658', 'TONY', true],
 ]
-global.suittag =['5212412477467']
+global.suittag =['50258487658']
 global.mods = []
-global.prems = ['5212412474767'], 
-global.prems = ['5212412377467'],
+global.prems = ['50258487658'], 
+global.prems = ['50258487658'],
 
-global.packname = '⫷᭄©𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰﹏✍'
+global.packname = '⫷᭄©DROID-8-MD﹏✍'
 global.author = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍'
 global.vs = '1.10.90'
 global.version = vs
@@ -45,8 +45,8 @@ global.envio = eeg
 global.eg = '*🍀ʀᴇsᴜʟᴛᴀᴅᴏ ᴇɴᴄᴏɴᴛʀᴀᴅᴏ✨*'
 global.exito = eg
 
-global.wm = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍\n⫷᭄©𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰﹏✍'
-global.igfg = '⫷᭄©𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰﹏✍'
+global.wm = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍\n⫷᭄©BOT-DROID-8﹏✍'
+global.igfg = '⫷᭄©DROID-8-MD﹏✍'
 global.wait = '⌛ _Cargando..._\n▰▰▰▱▱▱▱▱▱'
 
 global.imagen1 = fs.readFileSync('./views/Menu.jpg')
